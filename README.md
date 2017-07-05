@@ -4,6 +4,6 @@ This is a program I wrote for going semi-afk on games like oldschool runescape. 
 </p>
 <p>
 This script has two dependencies, Pillow and win32api. You can get both but using pip
-</p>
 <code>pip install pypiwin32</code><br>
 <code>pip install Pillow</code>
+</p>
